@@ -1,7 +1,8 @@
 # Sum of Diagonals of a Square Matrix
 Write a function that accepts a two dimensional matrix and returns the sum of the two diagonals.
 * The matrix should be a square matrix(equal number of rows and columns).
-* You can use only one loop.<br>
+* You can use only one loop.<br><br>
+* 
   For eg. <br>
   [[1,2,3],<br>
           [4,5,6],<br>
