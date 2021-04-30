@@ -19,6 +19,7 @@ Sum of the two diagonals=-1+4-2+3=4
 <br>
 Output=4
 <br>
+
 For eg.<br> [[1]].
 <br>
 Output=1
