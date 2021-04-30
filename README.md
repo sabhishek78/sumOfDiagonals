@@ -9,17 +9,17 @@ Write a function that accepts a two dimensional matrix and returns the sum of th
          
          
   Sum of the two diagonals=1+5+9+3+5+7=30
-<br>
-Output =30
+  <br>
+  Output =30
 
-For eg.<br> [[-1,-2],<br>
-         [ 3, 4]]
+  For eg.<br> [[-1,-2],<br>
+              [ 3, 4]]
          <br>
-Sum of the two diagonals=-1+4-2+3=4
-<br>
-Output=4
-<br>
+  Sum of the two diagonals=-1+4-2+3=4
+  <br>
+  Output=4
+  <br>
 
-For eg.<br> [[1]].
-<br>
-Output=1
+  For eg.<br> [[1]].
+  <br>
+  Output=1
