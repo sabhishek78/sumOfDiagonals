@@ -4,8 +4,8 @@ Write a function that accepts a two dimensional matrix and returns the sum of th
 * You can use only one loop.<br>
   For eg. <br>
   [[1,2,3],<br>
-         [4,5,6],<br>
-         [7,8,9]]
+          [4,5,6],<br>
+          [7,8,9]]
          
          
   Sum of the two diagonals=1+5+9+3+5+7=30
@@ -13,7 +13,7 @@ Write a function that accepts a two dimensional matrix and returns the sum of th
   Output =30
 
   For eg.<br> [[-1,-2],<br>
-              [ 3, 4]]
+               [ 3, 4]]
          <br>
   Sum of the two diagonals=-1+4-2+3=4
   <br>
