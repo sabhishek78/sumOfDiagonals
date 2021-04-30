@@ -9,12 +9,16 @@ For eg. <br>
          
          
 Sum of the two diagonals=1+5+9+3+5+7=30
+<br>
 Output =30
 
-For eg. [[-1,-2],
+For eg.<br> [[-1,-2],<br>
          [ 3, 4]]
+         <br>
 Sum of the two diagonals=-1+4-2+3=4
+<br>
 Output=4
-
-For eg. [[1]].
+<br>
+For eg.<br> [[1]].
+<br>
 Output=1
