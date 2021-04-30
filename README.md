@@ -1,9 +1,9 @@
-# sumOfDiagonals
+# Sum of Diagonals of a Square Matrix
 Write a function that accepts a two dimensional matrix and returns the sum of the two diagonals.
 * The matrix should be a square matrix(equal number of rows and columns).
 * You can use only one loop.
-For eg. [[1,2,3],
-         [4,5,6],
+For eg. [[1,2,3],\n
+         [4,5,6],\n
          [7,8,9]]
          
          
